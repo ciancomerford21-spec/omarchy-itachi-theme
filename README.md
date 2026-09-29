@@ -10,13 +10,13 @@ Yaru-red file manager icons.
 In the Omarchy menu: **Install > Style > Theme**, and paste:
 
 ```
-https://github.com/<your-github-username>/omarchy-itachi-theme
+https://github.com/ciancomerford21-spec/omarchy-itachi-theme
 ```
 
 Or from the command line:
 
 ```bash
-omarchy theme install https://github.com/<your-github-username>/omarchy-itachi-theme
+omarchy theme install https://github.com/ciancomerford21-spec/omarchy-itachi-theme
 omarchy theme set itachi
 ```
 
